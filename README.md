@@ -74,5 +74,5 @@ int main() {
 ```
 
 ## Contributors
-  - [carlahnr](https://github.com/carlahnr/)
+  - [hiranobyrne](https://github.com/hiranobyrne/)
   - Rui Santos
